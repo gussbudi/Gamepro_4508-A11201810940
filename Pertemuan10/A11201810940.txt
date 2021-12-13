@@ -1,0 +1,37 @@
+A11201810940
+komponen yang ada pada objek primitive 3D :
+CUBE
+* Transform
+* Cube ( Mesh Filter )
+* Mesh Rendered
+* Box Collider
+
+SPHERE
+* Transform
+* Sphere ( Mesh Filter )
+* Mesh Rendered
+* Sphere Collider
+
+CAPSULE
+* Transform
+* Capsule ( Mesh Filter )
+* Mesh Rendered
+* Capsule Collider
+
+CYLINDER
+* Transform
+* Cylinder ( Mesh Filter )
+* Mesh Rendered
+* Capsule Collider
+
+PLANE
+* Transform
+* Plane ( Mesh Filter )
+* Mesh Rendered
+* Mesh Collider
+
+QUAD
+* Transform
+* Quad ( Mesh Filter )
+* Mesh Rendered
+* Mesh Collider
